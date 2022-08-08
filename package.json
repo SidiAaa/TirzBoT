@@ -1,5 +1,5 @@
 {
-"name": "BOTSTORE",
+"nama" : "BOTSTORE" ,
 "version": "1.0.0",
 "description": "Bot WhatsApp Baileys Multi Device.",
 "main": "main.js",
